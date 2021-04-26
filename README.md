@@ -12,7 +12,7 @@ Foi uma disciplina da faculdade de Engenharia de Computação do IFPB - Campina 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47997158?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Alyson Vale</b></a>
- <br/>
+ <br/> <br/>
  <a href="https://github.com/AllanBastos"> 
  <img style="border-radius: 50%;"src="https://avatars.githubusercontent.com/u/44783589?v=4" width="100px;" alt=""/>
  <br />
