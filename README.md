@@ -6,12 +6,17 @@
 # Sobre
 Foi uma disciplina da faculdade de Engenharia de Computação do IFPB - Campina Grande/PB. Que utilizou a liguagem de programação Python para representar os modelos matemáticos para automatizando a utilização.
 
-### Autor
+### Autores
 ---
 <a href="https://github.com/alysonvale"> 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47997158?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Alyson Vale</b></a>
-
+ 
+ <a href="https://github.com/AllanBastos"> 
+ <img style="border-radius: 50%;" src="![image](https://user-images.githubusercontent.com/47997158/116129967-13f99000-a6a1-11eb-97b0-c620e048d9a9.png)" width="100px;" alt=""/>
+ <br />
+ <sub><b>Allan Bastos</b></a>
+Co-autor
 
 
