@@ -1,5 +1,4 @@
 <h1 align="center">Grafos</h1>
-![](https://github.com/alysonvale/grafos/blob/main/Grafos/Python%20language/graph.gif)
 <p align="center">Grafos são a utilização de modelos matemáticos para ajudar a representar vários problemas do mundo real de uma maneira mais formal.</p>
 
 ![Badge](https://img.shields.io/badge/python-v3.7-blue) ![Badge](https://img.shields.io/github/license/alysonvale/proj-algoritmos-e-logica-de-programacao)
