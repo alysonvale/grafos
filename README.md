@@ -1,7 +1,8 @@
+
+<h1 align="center">Grafos</h1>
 <h1 align="center">
 <img src="https://github.com/GuilhermeEsdras/Grafos/blob/master/images/graph.gif" width="150" style="max-width:100;"  alt=""/>
 </h1>
-<h1 align="center">Grafos</h1>
 <p align="center">Grafos são a utilização de modelos matemáticos para ajudar a representar vários problemas do mundo real de uma maneira mais formal.</p>
 
 ![Badge](https://img.shields.io/badge/python-v3.7-blue) ![Badge](https://img.shields.io/github/license/alysonvale/proj-algoritmos-e-logica-de-programacao)
