@@ -1,3 +1,4 @@
+<img src="https://github.com/GuilhermeEsdras/Grafos/blob/master/images/graph.gif" width="40" height="40" />
 <h1 align="center">Grafos</h1>
 <p align="center">Grafos são a utilização de modelos matemáticos para ajudar a representar vários problemas do mundo real de uma maneira mais formal.</p>
 
